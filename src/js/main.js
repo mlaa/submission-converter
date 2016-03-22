@@ -41,6 +41,7 @@ var targetFieldNames = [
   'JournalTitle',
   'BookTitle',
   'PublicationEditor',
+  'TableOfContents',
   'PlaceofPublication',
   'Publisher',
   'DateofPublication',
